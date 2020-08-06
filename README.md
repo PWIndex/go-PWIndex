@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go PWIndex
 
 Official Golang implementation of the Ethereum protocol.
 
